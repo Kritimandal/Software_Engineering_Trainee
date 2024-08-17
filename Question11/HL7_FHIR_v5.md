@@ -1,0 +1,7 @@
+Question 11: Research HL7 FHIR v5.0.0 
+
+HLR FHIR stands for Fast Healthcare Interoperability Resources standard. It is a next-generation interoperability standard created by the standards development organization Health Level 7 (HL7). It is a set of rules and specifications for quick and effiecient exchange of electronic health care data between different healthcare apps and IoMT devices.
+
+The HL7 FHIR standards make it easy for medical organizations to store, retrieve, update and share patient information securely and efficiently. They ensure that different systems can work together smoothly. The main goal of FHIR is to simplify data sharing and interoperability without losing important information. It builds on existing models to offer a consistent, easy-to-use method for exchanging data between healthcare applications. This helps to optimize electronic health records. 
+
+FHIR also includes guidelines for a REST API, based on well-known web standards, to create a complete solution for healthcare data exchange. It uses technology most developer are familiar with making it is easy to lean and adopt. It is based on client server model for data exchange that uses REST API and communicates using formats lie XML, JSON, and RDF through HTTP APIs. HLR FHIR  version 5 includes dozens of new resources, increases in resource maturity, and increased efficiencies. Features include enhanced interoperability, data management, and streamlined workflows.

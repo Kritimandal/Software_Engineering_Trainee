@@ -1,0 +1,3 @@
+Question 8: Python valid_square() Function
+
+It first imports the math module to use the sqrt function, which calculates the square root of a number. Inside the function, the square root of the input value is calculated and then checked to see if it is an integer using the is_integer() method. If the square root is an integer, the function prints a message confirming that the number is a valid square and shows its square root. If not, it prints a message indicating that the number is not a valid square. The program also prompts the user to enter a number, which is then passed to the valid_square function to check if it's a perfect square.
